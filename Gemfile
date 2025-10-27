@@ -1,3 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0.0"
+gem "jekyll"
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "logger"
+gem "sassc", "< 2.2.0"
+gem "webrick"
+gem "erb"
